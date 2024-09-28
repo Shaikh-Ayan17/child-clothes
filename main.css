@@ -1,0 +1,24 @@
+.bb{
+    border: soloid 2px blue;
+}
+.bp{
+    border: solid 2px yellow;
+}
+.bg{
+    border: solid 2px green;
+}
+.bp{
+    border: solid 2px pink;
+}
+
+.first-right{
+    /* height: 100vh; */
+}
+
+.cards-sec{
+    /* height: 100vh !important; */
+}
+.card-img-top {
+    height: 400px;
+    object-fit: cover;
+}
